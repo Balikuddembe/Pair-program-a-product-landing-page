@@ -1,0 +1,31 @@
+.flex-container{
+    display: flex;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+}
+
+  
+  input[type=submit] {
+ 
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  input[type=email] {
+ 
+    background-color: gray;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border-radius: 4px;
+    
+  }
+  
+  input[type=submit]:hover {
+    background-color: #45a049;
+  }
